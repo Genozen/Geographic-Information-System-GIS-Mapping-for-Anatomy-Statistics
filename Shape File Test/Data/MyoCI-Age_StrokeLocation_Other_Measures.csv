@@ -1,0 +1,33 @@
+﻿Subject,Subject_1,Group,Age,Gender,Ethnicity,Race,Stroke Location,Stroke Side,WOLF_bl,WOLF_w6,WOLF_w10,FMA_bl,FMA_w6,FMA_w10,MP1,MP2,MP3
+CW_01,CW01,2D,67,F,Not Hispanic or Latino,White,,,80.86967,80.714,80.55267,16.5,14,17,AD/PD,Bi/AD,Trilat/PD
+CW_02,CW02,2D,48,M,Not Hispanic or Latino,White,,,80.335,80.3267,80.3393,23,26,27,Bi/AD,AD/PD,Trilat/PD
+CW_04,CW04,2D,59,M,Not Hispanic or Latino,Black/African American,3,L,69.165,53.94667,38.11267,28.5,35,26,Trilat/PD,AD/PD,Bi/TriLat
+CW_07,CW07,2D,58,M,Not Hispanic or Latino,Asian,"1,3",L,88.559,88.60133,88.73667,22,21,25,Bi/AD,AD/Trp,TriLat/BR
+CW_14,CW14,2D Sham,45,F,Not Hispanic or Latino,Black/African American,"1,3",R,80.539665,66.62067,57.88933,26.5,31,32,Bi/AD,Trp/AD,AD/PD
+CW_16,CW16,2D Sham,37,M,Not Hispanic or Latino,White,"2,5",L,88.499,88.49333,92.394665,23.5,27,26,Bi/AD,AD/PD,TriLat/BR
+CW_17,CW17,2D Sham,63,M,Not Hispanic or Latino,White,0,R,80.618,72.57,72.574,18.5,20,18,Bi/AD,AD/PD,Trap/Bi
+CW_20,CW20,2D Sham,50,M,Not Hispanic or Latino,White,"1,3",L,88.38966667,96.2667,88.432,17.5,16,19,Bi/AD,Trp/Bi,PD/AD
+CW_21,CW21,2D,65,F,Not Hispanic or Latino,Black/African American,"1,5",R,112.1353,104.727,104.375,9.5,10,10,Bi/TriLat,Bi/AD,BR/TriLat
+CW_22,CW22,2D,71,F,Not Hispanic or Latino,Black/African American,1,L,93.2013,83.1867,81.2553,12.5,13,13,AD/PD,Bi/Trilat,Bi/AD
+CW_24,CW24,2D Sham,68,F,Not Hispanic or Latino,White,"1,5",R,100.59685,104.357,104.227,12,14,14,Bi/AD,AD/Trp,Br/MD
+CW_26,CW26,2D Sham,78,F,Not Hispanic or Latino,Black/African American,"1,3",L,105.1535,112.364,113.094,13.5,17,15,AD/PD,Bi/AD,AD/Trp
+CW_29,CW29,3D,77,F,Not Hispanic or Latino,White,1,L,97.127,81.808,88.6827,14.5,17,11,Trp/MD/AD,Bi/AD/PD,
+CW_31,CW31,3D,21,M,Not Hispanic or Latino,White,4,R,80.68235,80.7693,66.3733,11,16,16,Trp/AD/Bi,Trilat/Trp/AD,PD/Inf/AD (W4)
+CW_34,CW34,2D Sham,60,M,Not Hispanic or Latino,Black/African American,4,L,42.559,29.67,40.4593,28,26,27,Trp/AD,BR/AD,AD/PD
+CW_36,CW36,Reach,37,F,Not Hispanic or Latino,Black/African American,"1,3,5",L,101.84585,90.6027,96.7267,13.5,15,15,Trp/AD,PD/AD,Bi/AD
+CW_38,CW38,3D,51,M,Not Hispanic or Latino,White,,,92.7482,88.9267,80.6793,18.5,21,22,PD/Trp/AD,PD/Trp/AD,PD/Trp/AD
+CW_44,CW44,1D Sham ,52,F,Not Hispanic or Latino,White,"1,2,3,5",R,96.77465,97.2667,97.0307,16,14,15.5,Bi,Bi,Bi
+CW_50,CW50,1D Sham ,41,M,Not Hispanic or Latino,Black/African American,"1,2,3,5",R,116.1093333,112.6,116.3,14,16,18,AD,TriLat,Bi
+CW_52,CW52,Reach,80,M,Not Hispanic or Latino,Black/African American,1,R,97.91466667,104.264,96.3427,14,16,13,Bi/AD,Trp/AD,Bi/PD
+CW_55,CW55,2D,57,F,Hispanic or Latino,White,5,L,83.58366667,89.05,81.1593,20.5,23,23,AD/Trp,Bi/AD,Bi/TriLat
+CW_60,CW60,Reach,72,M,Not Hispanic or Latino,White,,,97.92966667,91.8473,89.3213,14.5,15,16,Bi/AD,AD/PD,Bi/TriLat
+CW_61,CW61,3D,66,M,Not Hispanic or Latino,Black/African American,,,112.3915,93.2587,93.0867,11,16,15,AD/PD/Bi,AD/Trp/Br,
+CW_65,CW65,3D,53,M,Not Hispanic or Latino,Black/African American,"1,2,3,5",R,86.12966667,97.15,89.8,13,15,12,AD/PD/Trp,Br/AD/Trp,
+CW_66,CW66,Reach,58,M,Not Hispanic or Latino,Black/African American,"1,4,5",R,67.26268333,81.5767,58.4813,28,31,28,AD/PD,Bi/AD,Bi/TriLat
+CW_67,CW67,3D,61,M,Not Hispanic or Latino,Black/African American,"2,5",L,74.00566667,58.24,42.28,20.5,22,24,Bi/AD/Trp,AD/PD/Bi,
+CW_70,CW70,1D Sham ,55,M,Not Hispanic or Latino,Asian,3,L,85.47766667,89.798,81.41,20.5,22,17,Bi,AD,TriLat
+CW_71,CW71,2D,67,M,Not Hispanic or Latino,White,"3,5",R,100.79,104.4,96.9913,16.5,20,17,AD/PD,AD/Trp,AD/Bi
+CW_72,CW72,Reach,69,M,Not Hispanic or Latino,White,"1,3,5",L,96.64766667,96.84,96.5893,13.5,14,14,AD/Trp,AD/PD,Bi/AD
+CW_73,CW73,3D,79,M,Not Hispanic or Latino,Asian,"1,3",L,112.5996667,104.3,104.571,10.5,10,12,AD/Bi/PD,Bi/Trp/TriLat,
+CW_74,CW74,2D,41,F,Not Hispanic or Latino,White,"1,2",L,85.202,80.7787,73.0673,13.5,15,16,Bi/AD,BR/AD,AD/PD
+CW_76,CW76,Reach,86,F,Not Hispanic or Latino,White,,L,107.111,98.154,73.06733333,17,21,23,BR/AD,AD/Trp,Bi/AD
